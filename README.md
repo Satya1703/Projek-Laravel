@@ -1,3 +1,28 @@
+## Title
+- Twice Merch website
+
+## Description
+
+Twice Merch is a website that sells several collections of K-Pop albums, especially Twice idols. In this website users can view several album collections and order them through the existing page. There is also a menu where admins can enter to be able to manipulate data such as deleting and updating data.
+
+## Requirement
+
+- Laravel 8
+- Composer
+- MD Boostrap
+- Text Editor
+- PHP 8 
+- XAMPP
+- MySQL database
+
+## How To Install
+- Install All Requirements
+- Start XAMPP and MySql ControlL Panel
+- Make Database
+- Input name of the database into file .env
+- Run Composer in terminal
+- Run php artisan serve in terminal
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
